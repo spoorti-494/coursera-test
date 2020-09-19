@@ -3,7 +3,7 @@
 </head>
 <body>
   
- <img src = "share.jpg" />
+ <img src = " pictures/share.jpg" />
   
 </body>
 </html>
